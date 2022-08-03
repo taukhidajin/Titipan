@@ -1,0 +1,31 @@
+name: checkoutventuro
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.5 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/checkoutventuro/assets/images/vector8.svg
+    - packages/checkoutventuro/assets/images/eparrowleftbold.svg
+    - packages/checkoutventuro/assets/images/group.svg
+    - packages/checkoutventuro/assets/images/vector.svg
+    - packages/checkoutventuro/assets/images/rectangle7.png
+    - packages/checkoutventuro/assets/images/vector28.svg
+    - packages/checkoutventuro/assets/images/16379197241.png
+    - packages/checkoutventuro/assets/images/rectangle182.svg
+    - packages/checkoutventuro/assets/images/rectangle9.png
+    - packages/checkoutventuro/assets/images/16379197242.png
+    - packages/checkoutventuro/assets/images/vector9.svg
